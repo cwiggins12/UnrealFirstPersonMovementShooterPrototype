@@ -1,1 +1,1 @@
-Modular buttons to open doors, give the player an extra jump, a push tunnel, 2 separate ammo types(one can be used for rocket jumping), instakill spikes, and cool flamethrowers. Everything a movement shooter prototype needs. Can't wait to work on this some more.
+Modular buttons to open doors, give the player an extra jump, and launch a push tunnel, plus 2 separate ammo types(one can be used for rocket jumping), instakill spikes, and cool flamethrowers. Everything a movement shooter prototype needs. Can't wait to work on this some more.
